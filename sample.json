@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Small Shirt",
+    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+    "price": 29.48,
+    "category": "foobar",
+    "desc": "I am a description",
+    "itemID": "123456"
+  },
+  {
+    "name" : "Med Shirt",
+    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+    "price": 18.99,
+    "category": "foobar",
+    "desc": "I am a description",
+    "itemID": "123456"
+  },
+  {
+    "name" : "Large shirt",
+    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+    "price": 15.02,
+    "category": "foobar",
+    "desc": "I am a description",
+    "itemID": "123456"
+  }
+]
