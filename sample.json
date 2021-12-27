@@ -1,26 +1,26 @@
 [
   {
-    "name" : "Small Shirt",
-    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
-    "price": 29.48,
-    "category": "foobar",
-    "desc": "I am a description",
-    "itemID": "123456"
+    "name" : "Smiling Cats Fabric Phone Stand",
+    "photo_url": "https://i.etsystatic.com/9562414/r/il/32f8e0/3490495502/il_340x270.3490495502_hucv.jpg",
+    "price": 15.00,
+    "category": "Phone Holders,For Cat Lovers",
+    "desc": "Phone stand, smiling cats fabric, phone stand, cute phone pillows, desk organizer , phone pillows, gift for cat mom, stocking stuffers",
+    "itemID": "111111"
   },
   {
-    "name" : "Med Shirt",
-    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
-    "price": 18.99,
-    "category": "foobar",
-    "desc": "I am a description",
-    "itemID": "123456"
+    "name" : "Cactus Fabric Phone Stand",
+    "photo_url": "https://i.etsystatic.com/9562414/r/il/1b84ae/3498728016/il_680x540.3498728016_kig6.jpg",
+    "price": 15.00,
+    "category": "Phone Holders",
+    "desc": "Phone stand, cactus fabric, phone stand, cute phone pillows, desk organizer , Arizona native gift, gift for her, stocking stuffers",
+    "itemID": "111112"
   },
   {
-    "name" : "Large shirt",
-    "photo_url": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
-    "price": 15.02,
-    "category": "foobar",
-    "desc": "I am a description",
-    "itemID": "123456"
-  }
+    "name" : "Black and White Phone Stand",
+    "photo_url": "https://i.etsystatic.com/9562414/r/il/b3c751/3506282083/il_340x270.3506282083_1jrm.jpg",
+    "price": 15.00,
+    "category": "Phone Holders",
+    "desc": "Phone stand, smiling cats fabric, phone stand, cute phone pillows, desk organizer , phone pillows, gift for cat mom, stocking stuffers",
+    "itemID": "111113"
+  },
 ]
