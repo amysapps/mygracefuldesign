@@ -3,7 +3,7 @@
     "from": "amytechadvisors@gmail.com",
     "sender_name": "MyGracefulDesign App Support Request",
     "to": "mygracefuldesign@gmail.com",
-    "recipiant_name": "Support Team",
+    "recipient_name": "Support Team",
     "subject": "@{userSubject} - Support Request",
     "message_html": "<b>User Info:<br></b>&nbsp;Name: @{userName}<br>&nbsp;Email: @{userEmail}<br><br><b>Subject:</b><br>&nbsp;@{userSubject}<br><br><b>Content:</b><br>&nbsp;@{userContent}"
   },
@@ -11,7 +11,7 @@
     "from": "mygracefuldesign@gmail.com",
     "sender_name": "MyGracefulDesign Customer Support",
     "to": "@{userEmail}",
-    "recipiant_name": "@{userName}",
+    "recipient_name": "@{userName}",
     "subject": "Support Ticket Recieved",
     "message_html": "Hello @{userName}! <br><br>Thank you for contacting MyGracefulDesign! Your message has been received and is being reviewed by our support staff. We will reply with a resolution as quickly as possible. <br><br>All requests are dated and time stamped and will be honored by the time of their submission! In the meantime, please feel free to continue browsing our store while we do our best to get back to you shortly!<br><br>MyGracefulDesign Support"
   }
