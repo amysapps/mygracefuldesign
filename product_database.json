@@ -5,7 +5,8 @@
     "price": 15.00,
     "category": "Phone Holders,For Cat Lovers",
     "desc": "Phone stand, smiling cats fabric, phone stand, cute phone pillows, desk organizer , phone pillows, gift for cat mom, stocking stuffers",
-    "itemID": "111111"
+    "itemID": "111111",
+    "quantity": 99
   },
   {
     "name" : "Cactus Fabric Phone Stand",
@@ -13,7 +14,8 @@
     "price": 15.00,
     "category": "Phone Holders",
     "desc": "Phone stand, cactus fabric, phone stand, cute phone pillows, desk organizer , Arizona native gift, gift for her, stocking stuffers",
-    "itemID": "111112"
+    "itemID": "111112",
+    "quantity": 99
   },
   {
     "name" : "Black and White Phone Stand",
@@ -21,7 +23,8 @@
     "price": 15.00,
     "category": "Phone Holders",
     "desc": "Phone stand, black white striped fabric, phone stand, cute phone pillow, desk organizer , sports fan gifts, Coworker gift, stocking stuffers",
-    "itemID": "111113"
+    "itemID": "111113",
+    "quantity": 99
   },
     {
     "name" : "Phone Stands (Any)",
@@ -29,7 +32,8 @@
     "price": 15.00,
     "category": "Phone Holders",
     "desc": "Phone stand, fabric phone stand, cute phone pillows, desk organizer , eco friendly gifts, gift for him, gift for her, stocking stuffer",
-    "itemID": "111114"
+    "itemID": "111114",
+     "quantity": 99
   },
   {
     "name" : "Face Pads",
@@ -37,7 +41,8 @@
     "price": 12.00,
     "category": "Makeup Removers",
     "desc": "Face pads, round Eco Friendly Face Scrubby Pads, reusable face wipes, zero waste makeup removers, organic cotton pads",
-    "itemID": "111115"
+    "itemID": "111115",
+    "quantity": 99
   },
   {
     "name" : "Tea Towels",
@@ -45,7 +50,8 @@
     "price": 12.00,
     "category": "Vintage Inspired",
     "desc": "Tea towels, flour sack towels, bread basket cover, fabric napkins , multi purpose napkins, table center, dishcloths, kitchen towelss",
-    "itemID": "111116"
+    "itemID": "111116",
+    "quantity": 99
   },
   {
     "name" : "Grocery Bag Dispenser",
@@ -53,6 +59,7 @@
     "price": 12.00,
     "category": "Market Bag Patterns",
     "desc": "Tea towels, flour sack towels, bread basket cover, fabric napkins , multi purpose napkins, table center, dishcloths, kitchen towelss",
-    "itemID": "111117"
+    "itemID": "111117",
+    "quantity": 99
   }
 ]
